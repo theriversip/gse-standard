@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Obsidian
+.obsidian/
+workspace.json
+
+# Node/npm
+node_modules/
+dist/
+build/
+
+# Python/jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
