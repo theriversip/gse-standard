@@ -38,6 +38,7 @@ The sentence structure follows a Subject–Verb–Object pattern.
 | 1st person | me        | us     |
 | 2nd person | you       | yall   |
 | 3rd person | him / her | them   |
+
 Object pronouns show case leveling (e.g., me and him went). 
 ## Double Subjects
 The GSE double subject construction usually takes the form `(noun / noun phrase), (pronoun clause / pronoun + verb phrase)`.
