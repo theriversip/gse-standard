@@ -62,6 +62,7 @@ Followed by a matching pronoun clause:
 | 1st Person | ma        | our    |
 | 2nd Person | your      | yall   |
 | 3rd Person | his / her | they   |
+
 ### Examples
 
 | GSE               |
@@ -69,6 +70,7 @@ Followed by a matching pronoun clause:
 | This ma guitar.   |
 | This yall choice. |
 | This they house.  |
+
 ## Reflexives
 Reflexives are usually built analytically from `(possessive pronouns) + -self /-selves`.
 
@@ -170,12 +172,14 @@ The word *gon* expresses definite or committed future action. It differs from fi
 | *I'm gon call her.*   | Definite future intention | Commitment implied          |
 | *I'm finna call her.* | About to call her now     | Immediate                   |
 | *We bouta talk.*      | Conversation is impending | Immediate/emergent/imminent |
+
 GSE uses "a" as a future marker following the subject to express near-future intent, usually immediate or definite.
 
 | **Example**     |
 | --------------- |
 | I'm a call you. |
 | He a call you.  |
+
 ## Past conditional/modal
 In GSE, past modals express unreal or non-actualized past actions. The verb remains in root or simple past form.
 
@@ -183,11 +187,13 @@ In GSE, past modals express unreal or non-actualized past actions. The verb rema
 | --------------------------------------- |
 | I would a went.                         |
 | I would not a went. / I would n'a went. |
+
 "Could a" marks past possibility or ability that didn’t happen.
 
 | **Example**     |
 | --------------- |
 | I could a went. |
+
 ## Conditional Constructions
 These forms follow a consistent logic with modals, aspect markers, and ellipsis.
 `I’d go if I had gas.`
