@@ -22,6 +22,7 @@ The sentence structure follows a Subject–Verb–Object pattern.
 `The boy dont eat apples.`
 - **Relative clauses**: Use of "that"
 `The boy that run.`
+
 ## Personal Pronouns
 ### Subject
 
